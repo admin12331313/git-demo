@@ -16,5 +16,5 @@ hello juncheng! hello git!
 hello juncheng! hello git!
 hello juncheng! hello git!
 hello juncheng! hello git! master-test
-hello juncheng! hello git!
+hello juncheng! hello git!  hot-test
 	hello juncheng! hello git!
